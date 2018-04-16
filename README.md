@@ -38,5 +38,5 @@ Thank `You` . Please `Call` Me `Coder`
 * 英文名：Jelly  
 
 * 昵称：果冻虾仁  
- * 别名：隔壁老王  
-  * 英文名：Jelly  
+	* 别名：隔壁老王  
+ 	* 英文名：Jelly  
