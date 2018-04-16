@@ -9,7 +9,7 @@
 #####五级标题  
 ######六级标题  
 # fred
-![Alt text](https://github.com/samFromChina/fred/blob/dev/Screenshots/1.jpg)
+![](https://github.com/samFromChina/fred/blob/dev/Screenshots/1.jpg)
 
 下面是虚线：
 
