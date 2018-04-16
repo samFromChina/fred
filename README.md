@@ -1,3 +1,2 @@
 # fred
-123
-hjhkj
+![Alt text](https://github.com/samFromChina/fred/blob/dev/Screenshots/1.png)
